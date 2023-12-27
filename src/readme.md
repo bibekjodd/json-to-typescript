@@ -6,6 +6,8 @@
 npm install @jodd/json-to-typescript
 ```
 
+#### [Official NPM Package Link](https://www.npmjs.com/package/@jodd/json-to-typescript)
+
 #### Apply `white-space` property as `pre-wrap` to show magically ⚡ formatted text on the browser
 
 ```tsx
